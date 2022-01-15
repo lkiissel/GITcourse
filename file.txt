@@ -1,1 +1,2 @@
-Change in file. 
+Change in file.
+New changes in the file.
